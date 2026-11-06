@@ -29,11 +29,11 @@
     <priority>0.85</priority>
   </url>
 
-  <!-- Sezione Chi Siamo -->
+  <!-- Pagina Chi Siamo -->
   <url>
-    <loc>https://www.sartoriatagliacuci.com/#perche</loc>
+    <loc>https://www.sartoriatagliacuci.com/chi-siamo.html</loc>
     <lastmod>2026-03-17</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
